@@ -1,0 +1,8 @@
+-- MYSQL table structure consists of
+-- table namea fields/Attributes
+-- Data Types
+-- Constraints
+-- Autoincrement
+-- Characters Set (default-utf8mb4)
+-- Storage Engine (8.x and above version default InnoDB
+-- collation (Default collaction utf8mb4_0900 _ai_ci;
